@@ -1,0 +1,32 @@
+body {
+  font-family: Poppins;
+  text-align: center;
+}
+
+label {
+  font-size: 2em;
+}
+
+#myText {
+  padding: 10px 5px;
+  font-size: 1.2em;
+  background-color: white;
+  border: solid 2px black;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 5px;
+}
+
+#mySubmit {
+  margin-top: 10px;
+  font: bold 25px Poppins;
+  padding: 5px 86px;
+  background-color: black;
+  color: white;
+}
+
+#resultElement {
+  font: 400 25px Poppins;
+  color:rgb(255, 0, 0);
+}
